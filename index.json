@@ -1,0 +1,11 @@
+{
+  "org": "BerriAI",
+  "repo": "litellm-lens-example",
+  "versions": [
+    {
+      "commit": "238d61d6112e691a752eb1d3b3b6171d08c17999",
+      "tag": "",
+      "parsed_at": "2026-10-10T07:25:35.744512+00:00"
+    }
+  ]
+}
