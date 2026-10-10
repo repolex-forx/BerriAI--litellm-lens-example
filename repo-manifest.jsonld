@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/BerriAI/litellm-lens-example/commit/238d61d6112e691a752eb1d3b3b6171d08c17999",
       "git:hexsha": "238d61d6112e691a752eb1d3b3b6171d08c17999",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-10T07:25:35.744121+00:00"
     }
   ]
 }
